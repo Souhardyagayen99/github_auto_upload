@@ -1,4 +1,3 @@
-
 @echo off
 title Automatic GitHub Upload
 
@@ -48,3 +47,4 @@ echo       GITHUB UPLOAD COMPLETED
 echo =====================================
 
 pause
+exit
